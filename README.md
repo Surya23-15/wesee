@@ -5,9 +5,6 @@ Overview:
 - Backend (Express) runs event listeners and exposes endpoints for owner actions and purchase tx population.
 - Minimal frontend (single HTML) for wallet interactions.
 
-## Time estimate
-This full stack should be possible within ~2.0–2.5 hours if you follow the checklist and reuse the provided code.
-
 ## 1) Start local node and deploy
 Terminal A:
 1. npx hardhat node
